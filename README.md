@@ -1,4 +1,4 @@
-# insulin
+# insulin-B24X
 This folder contains MD simulation files of halogenated PheB24 insulin monomer derivatives. 
 
 The data is organized as follow:
