@@ -1,0 +1,10 @@
+* Topology for benzene
+* Tristan Bereau 27.04.1012
+*
+
+MASS   250  HPX       1.00800 H
+MASS   253  CAX      12.01100 C   ! 
+MASS   254  F1X      18.99800 F
+MASS   255  BRX      79.90400 B
+MASS   256  CLX      35.45300 C
+MASS   257  I1X     126.90400 I
